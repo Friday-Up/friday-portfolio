@@ -23,10 +23,12 @@
 
  构建产物输出到 `dist/` 目录。
 
- ## 部署
+## 部署
 
- 本项目配置为静态导出，可部署到 Vercel、Cloudflare Pages、GitHub Pages 等任意静态托管平台。
+本项目配置为静态导出，可部署到 Vercel、Cloudflare Pages、GitHub Pages 等任意静态托管平台。
 
- ## License
+线上地址：https://friday-portfolio-fridays-projects-77e733de.vercel.app
+
+## License
 
  MIT
