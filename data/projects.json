@@ -1,0 +1,123 @@
+ [
+   {
+     "id": "requirements-structuring",
+     "name": "Requirements Structuring",
+     "nameZh": "需求结构化",
+     "description": "把零散需求一键整理成可决策的结构化简报",
+     "category": "skill",
+     "tags": ["Codex", "AI", "Prompt Engineering"],
+     "techStack": ["Markdown"],
+     "githubUrl": "https://github.com/Friday-Up/requirements-structuring",
+     "status": "maintained"
+   },
+   {
+     "id": "weekly-report",
+     "name": "Weekly Report",
+     "nameZh": "工作周报",
+     "description": "从飞书学习日报自动获取工作内容并生成结构化周报",
+     "category": "skill",
+     "tags": ["Codex", "Lark", "自动化"],
+     "techStack": ["Markdown", "JSON"],
+     "githubUrl": "https://github.com/Friday-Up/weekly-report",
+     "status": "maintained"
+   },
+   {
+     "id": "batch-image-replace",
+     "name": "Batch Image Replace",
+     "nameZh": "京准通批量换图",
+     "description": "批量换图 + 批量设置预算，京准通日常运营自动化",
+     "category": "automation",
+     "tags": ["Playwright", "Excel", "GUI"],
+     "techStack": ["Python", "Playwright"],
+     "githubUrl": "https://github.com/Friday-Up/batch-image-replace",
+     "status": "maintained"
+   },
+   {
+     "id": "xhs-daily-report-splitter",
+     "name": "XHS Daily Report Splitter",
+     "nameZh": "小红书日报拆分器",
+     "description": "按项目自动拆分红书大日报为单项目小日报",
+     "category": "automation",
+     "tags": ["Excel", "数据分析"],
+     "techStack": ["Python"],
+     "githubUrl": "https://github.com/Friday-Up/xhs-daily-report-splitter",
+     "status": "maintained"
+   },
+   {
+     "id": "live",
+     "name": "Live Tools",
+     "nameZh": "直播本地工具",
+     "description": "直播相关本地 Web 工具统一入口：券码绑定、SKU 测价",
+     "category": "web",
+     "tags": ["Flask", "Web", "浏览器自动化"],
+     "techStack": ["Python", "Flask"],
+     "githubUrl": "https://github.com/Friday-Up/live",
+     "status": "maintained"
+   },
+   {
+     "id": "codex-provider-sync-project",
+     "name": "Codex Provider Sync",
+     "nameZh": "Codex Provider 同步",
+     "description": "同步 Codex session provider 元数据到 rollout 文件和 SQLite 状态",
+     "category": "cli",
+     "tags": ["Codex", "CLI", "Tauri"],
+     "techStack": ["Node.js", "Tauri"],
+     "githubUrl": "https://github.com/Friday-Up/codex-provider-sync-project",
+     "status": "maintained"
+   },
+   {
+     "id": "feishu-to-jingme",
+     "name": "Feishu to Jingme",
+     "nameZh": "飞书迁移京 ME",
+     "description": "飞书文档、聊天记录等数据迁移到京 ME 的 CLI 工具",
+     "category": "cli",
+     "tags": ["Playwright", "迁移"],
+     "techStack": ["Node.js", "Playwright"],
+     "githubUrl": "https://github.com/Friday-Up/feishu-to-jingme",
+     "status": "maintained"
+   },
+   {
+     "id": "github-profile-3d",
+     "name": "GitHub Profile 3D",
+     "nameZh": "GitHub 3D 贡献图",
+     "description": "生成 GitHub 贡献蛇动画的 Action 仓库",
+     "category": "other",
+     "tags": ["GitHub Actions", "SVG"],
+     "techStack": ["GitHub Actions"],
+     "githubUrl": "https://github.com/Friday-Up/github-profile-3d",
+     "status": "maintained"
+   },
+   {
+     "id": "jdme-card-broadcast",
+     "name": "JDME Card Broadcast",
+     "nameZh": "京 ME 卡片广播",
+     "description": "基于京 ME 开放平台批量发送互动卡片消息",
+     "category": "other",
+     "tags": ["京 ME", "广播", "Java"],
+     "techStack": ["Java", "Maven"],
+     "githubUrl": "https://github.com/Friday-Up/jdme-card-broadcast",
+     "status": "maintained"
+   },
+   {
+     "id": "jingme-shop-permission-bot",
+     "name": "Jingme Shop Permission Bot",
+     "nameZh": "京 ME 店铺权限机器人",
+     "description": "京 ME 店铺权限管理机器人",
+     "category": "other",
+     "tags": ["京 ME", "机器人"],
+     "techStack": ["Python"],
+     "githubUrl": "https://github.com/Friday-Up/jingme-shop-permission-bot",
+     "status": "maintained"
+   },
+   {
+     "id": "mess",
+     "name": "Mess",
+     "nameZh": "Mess",
+     "description": "基于 Spring Boot 3 的完整企业级演示项目",
+     "category": "other",
+     "tags": ["Spring Boot", "Java", "后端"],
+     "techStack": ["Java", "Spring Boot"],
+     "githubUrl": "https://github.com/Friday-Up/Mess",
+     "status": "maintained"
+   }
+ ]
