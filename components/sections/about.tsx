@@ -35,7 +35,7 @@ import { buttonVariants } from "@/components/ui/button";
               GitHub
             </Link>
             <Link
-              href="mailto:hello@example.com"
+              href="mailto:friday_zyl@163.com"
               className={`${buttonVariants({ variant: "outline", size: "lg" })} gap-2`}
             >
               <Mail className="h-4 w-4" />
